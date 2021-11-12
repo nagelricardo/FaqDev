@@ -10,8 +10,8 @@
 
 <p>
   <span><img src="src/imagens/screen_1.png" /></span>
-  <span><img src="src/imagens/screen_2.png" /></span>
-  <span><img src="src/imagens/screen_3.png" /></span>
+  <span><img src="src/imagens/screen_2.PNG" /></span>
+  <span><img src="src/imagens/screen_3.PNG" /></span>
 </p>
 
 <h2 id="autora">👤 Autor</h2>
